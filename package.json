@@ -1,0 +1,16 @@
+{
+  "name": "megaprojectbackend",
+  "version": "1.0.0",
+  "description": "a backend project on codehelp ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "programming"
+  ],
+  "author": "Priyanshu Yadav",
+  "license": "ISC"
+}
